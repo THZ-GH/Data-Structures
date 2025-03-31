@@ -47,6 +47,7 @@ public:
 class mydll
 {
 public:
+	movieclass *GetMovie(ifstream &streamList);
 	movieclass *head = nullptr;
 
 	bool IsEmpty() { return head == nullptr; }
@@ -118,10 +119,11 @@ public:
 
 		switch (input)
 		{
-		case 'A':
-			cout << "input: " << input;
+		case 'A': // Add movie
+			movieclass *newMovie = new movieclass();
+			newmovie = GetMovie(streamList);
+			AddtoEnd(newmovie);
 			break;
-
 		default:
 			break;
 		}
