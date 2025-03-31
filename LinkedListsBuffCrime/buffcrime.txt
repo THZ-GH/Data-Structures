@@ -1,0 +1,1596 @@
+Homicide	6	January	2006	1/31/2006
+Rape	16	January	2006	1/31/2006
+Robbery	166	January	2006	1/31/2006
+Assault	136	January	2006	1/31/2006
+Burglary	354	January	2006	1/31/2006
+Larceny	683	January	2006	1/31/2006
+Motor Vehicle Theft	204	January	2006	1/31/2006
+Homicide	4	February	2006	2/28/2006
+Rape	11	February	2006	2/28/2006
+Robbery	127	February	2006	2/28/2006
+Assault	125	February	2006	2/28/2006
+Burglary	294	February	2006	2/28/2006
+Larceny	506	February	2006	2/28/2006
+Motor Vehicle Theft	165	February	2006	2/28/2006
+Homicide	3	March	2006	3/31/2006
+Rape	19	March	2006	3/31/2006
+Robbery	127	March	2006	3/31/2006
+Assault	132	March	2006	3/31/2006
+Burglary	320	March	2006	3/31/2006
+Larceny	610	March	2006	3/31/2006
+Motor Vehicle Theft	153	March	2006	3/31/2006
+Homicide	6	April	2006	4/30/2006
+Rape	11	April	2006	4/30/2006
+Robbery	148	April	2006	4/30/2006
+Assault	205	April	2006	4/30/2006
+Burglary	303	April	2006	4/30/2006
+Larceny	608	April	2006	4/30/2006
+Motor Vehicle Theft	174	April	2006	4/30/2006
+Homicide	5	May	2006	5/31/2006
+Rape	19	May	2006	5/31/2006
+Robbery	146	May	2006	5/31/2006
+Assault	204	May	2006	5/31/2006
+Burglary	378	May	2006	5/31/2006
+Larceny	723	May	2006	5/31/2006
+Motor Vehicle Theft	198	May	2006	5/31/2006
+Homicide	7	June	2006	6/30/2006
+Rape	14	June	2006	6/30/2006
+Robbery	156	June	2006	6/30/2006
+Assault	199	June	2006	6/30/2006
+Burglary	344	June	2006	6/30/2006
+Larceny	734	June	2006	6/30/2006
+Motor Vehicle Theft	151	June	2006	6/30/2006
+Homicide	9	July	2006	7/31/2006
+Rape	16	July	2006	7/31/2006
+Robbery	159	July	2006	7/31/2006
+Assault	205	July	2006	7/31/2006
+Burglary	472	July	2006	7/31/2006
+Larceny	876	July	2006	7/31/2006
+Motor Vehicle Theft	178	July	2006	7/31/2006
+Homicide	11	August	2006	8/31/2006
+Rape	16	August	2006	8/31/2006
+Robbery	154	August	2006	8/31/2006
+Assault	193	August	2006	8/31/2006
+Burglary	408	August	2006	8/31/2006
+Larceny	871	August	2006	8/31/2006
+Motor Vehicle Theft	202	August	2006	8/31/2006
+Homicide	7	September	2006	9/30/2006
+Rape	12	September	2006	9/30/2006
+Robbery	145	September	2006	9/30/2006
+Assault	147	September	2006	9/30/2006
+Burglary	394	September	2006	9/30/2006
+Larceny	786	September	2006	9/30/2006
+Motor Vehicle Theft	183	September	2006	9/30/2006
+Homicide	6	October	2006	10/31/2006
+Rape	18	October	2006	10/31/2006
+Robbery	125	October	2006	10/31/2006
+Assault	130	October	2006	10/31/2006
+Burglary	452	October	2006	10/31/2006
+Larceny	846	October	2006	10/31/2006
+Motor Vehicle Theft	217	October	2006	10/31/2006
+Homicide	6	November	2006	11/30/2006
+Rape	11	November	2006	11/30/2006
+Robbery	131	November	2006	11/30/2006
+Assault	140	November	2006	11/30/2006
+Burglary	358	November	2006	11/30/2006
+Larceny	841	November	2006	11/30/2006
+Motor Vehicle Theft	169	November	2006	11/30/2006
+Homicide	3	December	2006	12/31/2006
+Rape	9	December	2006	12/31/2006
+Robbery	124	December	2006	12/31/2006
+Assault	106	December	2006	12/31/2006
+Burglary	368	December	2006	12/31/2006
+Larceny	785	December	2006	12/31/2006
+Motor Vehicle Theft	159	December	2006	12/31/2006
+Homicide	4	January	2007	1/31/2007
+Rape	14	January	2007	1/31/2007
+Robbery	110	January	2007	1/31/2007
+Assault	115	January	2007	1/31/2007
+Burglary	351	January	2007	1/31/2007
+Larceny	700	January	2007	1/31/2007
+Motor Vehicle Theft	165	January	2007	1/31/2007
+Homicide	4	February	2007	2/28/2007
+Rape	8	February	2007	2/28/2007
+Robbery	72	February	2007	2/28/2007
+Assault	85	February	2007	2/28/2007
+Burglary	233	February	2007	2/28/2007
+Larceny	520	February	2007	2/28/2007
+Motor Vehicle Theft	146	February	2007	2/28/2007
+Homicide	3	March	2007	3/31/2007
+Rape	12	March	2007	3/31/2007
+Robbery	111	March	2007	3/31/2007
+Assault	138	March	2007	3/31/2007
+Burglary	300	March	2007	3/31/2007
+Larceny	736	March	2007	3/31/2007
+Motor Vehicle Theft	180	March	2007	3/31/2007
+Homicide	4	April	2007	4/30/2007
+Rape	16	April	2007	4/30/2007
+Robbery	107	April	2007	4/30/2007
+Assault	117	April	2007	4/30/2007
+Burglary	331	April	2007	4/30/2007
+Larceny	734	April	2007	4/30/2007
+Motor Vehicle Theft	199	April	2007	4/30/2007
+Homicide	2	May	2007	5/31/2007
+Rape	15	May	2007	5/31/2007
+Robbery	125	May	2007	5/31/2007
+Assault	166	May	2007	5/31/2007
+Burglary	333	May	2007	5/31/2007
+Larceny	787	May	2007	5/31/2007
+Motor Vehicle Theft	176	May	2007	5/31/2007
+Homicide	6	June	2007	6/30/2007
+Rape	18	June	2007	6/30/2007
+Robbery	154	June	2007	6/30/2007
+Assault	195	June	2007	6/30/2007
+Burglary	390	June	2007	6/30/2007
+Larceny	888	June	2007	6/30/2007
+Motor Vehicle Theft	187	June	2007	6/30/2007
+Homicide	5	July	2007	7/31/2007
+Rape	15	July	2007	7/31/2007
+Robbery	141	July	2007	7/31/2007
+Assault	193	July	2007	7/31/2007
+Burglary	430	July	2007	7/31/2007
+Larceny	1001	July	2007	7/31/2007
+Motor Vehicle Theft	228	July	2007	7/31/2007
+Homicide	7	August	2007	8/31/2007
+Rape	15	August	2007	8/31/2007
+Robbery	140	August	2007	8/31/2007
+Assault	197	August	2007	8/31/2007
+Burglary	461	August	2007	8/31/2007
+Larceny	975	August	2007	8/31/2007
+Motor Vehicle Theft	183	August	2007	8/31/2007
+Homicide	3	September	2007	9/30/2007
+Rape	11	September	2007	9/30/2007
+Robbery	165	September	2007	9/30/2007
+Assault	137	September	2007	9/30/2007
+Burglary	439	September	2007	9/30/2007
+Larceny	889	September	2007	9/30/2007
+Motor Vehicle Theft	206	September	2007	9/30/2007
+Homicide	7	October	2007	10/31/2007
+Rape	14	October	2007	10/31/2007
+Robbery	138	October	2007	10/31/2007
+Assault	142	October	2007	10/31/2007
+Burglary	417	October	2007	10/31/2007
+Larceny	836	October	2007	10/31/2007
+Motor Vehicle Theft	214	October	2007	10/31/2007
+Homicide	3	November	2007	11/30/2007
+Rape	16	November	2007	11/30/2007
+Robbery	122	November	2007	11/30/2007
+Assault	100	November	2007	11/30/2007
+Burglary	368	November	2007	11/30/2007
+Larceny	797	November	2007	11/30/2007
+Motor Vehicle Theft	179	November	2007	11/30/2007
+Homicide	6	December	2007	12/31/2007
+Rape	14	December	2007	12/31/2007
+Robbery	151	December	2007	12/31/2007
+Assault	94	December	2007	12/31/2007
+Burglary	332	December	2007	12/31/2007
+Larceny	705	December	2007	12/31/2007
+Motor Vehicle Theft	218	December	2007	12/31/2007
+Homicide	2	January	2008	1/31/2008
+Rape	19	January	2008	1/31/2008
+Robbery	134	January	2008	1/31/2008
+Assault	134	January	2008	1/31/2008
+Burglary	317	January	2008	1/31/2008
+Larceny	758	January	2008	1/31/2008
+Motor Vehicle Theft	215	January	2008	1/31/2008
+Homicide	4	February	2008	2/28/2008
+Rape	12	February	2008	2/28/2008
+Robbery	94	February	2008	2/28/2008
+Assault	94	February	2008	2/28/2008
+Burglary	227	February	2008	2/28/2008
+Larceny	590	February	2008	2/28/2008
+Motor Vehicle Theft	117	February	2008	2/28/2008
+Homicide	2	March	2008	3/31/2008
+Rape	6	March	2008	3/31/2008
+Robbery	120	March	2008	3/31/2008
+Assault	119	March	2008	3/31/2008
+Burglary	267	March	2008	3/31/2008
+Larceny	763	March	2008	3/31/2008
+Motor Vehicle Theft	157	March	2008	3/31/2008
+Homicide	3	April	2008	4/30/2008
+Rape	11	April	2008	4/30/2008
+Robbery	112	April	2008	4/30/2008
+Assault	146	April	2008	4/30/2008
+Burglary	332	April	2008	4/30/2008
+Larceny	829	April	2008	4/30/2008
+Motor Vehicle Theft	164	April	2008	4/30/2008
+Homicide	1	May	2008	5/31/2008
+Rape	13	May	2008	5/31/2008
+Robbery	142	May	2008	5/31/2008
+Assault	188	May	2008	5/31/2008
+Burglary	386	May	2008	5/31/2008
+Larceny	857	May	2008	5/31/2008
+Motor Vehicle Theft	160	May	2008	5/31/2008
+Homicide	6	June	2008	6/30/2008
+Rape	20	June	2008	6/30/2008
+Robbery	130	June	2008	6/30/2008
+Assault	187	June	2008	6/30/2008
+Burglary	393	June	2008	6/30/2008
+Larceny	871	June	2008	6/30/2008
+Motor Vehicle Theft	172	June	2008	6/30/2008
+Homicide	5	July	2008	7/31/2008
+Rape	19	July	2008	7/31/2008
+Robbery	126	July	2008	7/31/2008
+Assault	218	July	2008	7/31/2008
+Burglary	378	July	2008	7/31/2008
+Larceny	1063	July	2008	7/31/2008
+Motor Vehicle Theft	186	July	2008	7/31/2008
+Homicide	5	August	2008	8/31/2008
+Rape	15	August	2008	8/31/2008
+Robbery	159	August	2008	8/31/2008
+Assault	202	August	2008	8/31/2008
+Burglary	425	August	2008	8/31/2008
+Larceny	962	August	2008	8/31/2008
+Motor Vehicle Theft	205	August	2008	8/31/2008
+Homicide	4	September	2008	9/30/2008
+Rape	14	September	2008	9/30/2008
+Robbery	130	September	2008	9/30/2008
+Assault	154	September	2008	9/30/2008
+Burglary	463	September	2008	9/30/2008
+Larceny	769	September	2008	9/30/2008
+Motor Vehicle Theft	150	September	2008	9/30/2008
+Homicide	0	October	2008	10/31/2008
+Rape	18	October	2008	10/31/2008
+Robbery	167	October	2008	10/31/2008
+Assault	169	October	2008	10/31/2008
+Burglary	339	October	2008	10/31/2008
+Larceny	808	October	2008	10/31/2008
+Motor Vehicle Theft	117	October	2008	10/31/2008
+Homicide	2	November	2008	11/30/2008
+Rape	17	November	2008	11/30/2008
+Robbery	109	November	2008	11/30/2008
+Assault	175	November	2008	11/30/2008
+Burglary	326	November	2008	11/30/2008
+Larceny	683	November	2008	11/30/2008
+Motor Vehicle Theft	107	November	2008	11/30/2008
+Homicide	3	December	2008	12/31/2008
+Rape	8	December	2008	12/31/2008
+Robbery	127	December	2008	12/31/2008
+Assault	118	December	2008	12/31/2008
+Burglary	287	December	2008	12/31/2008
+Larceny	607	December	2008	12/31/2008
+Motor Vehicle Theft	126	December	2008	12/31/2008
+Homicide	4	January	2009	1/31/2009
+Rape	10	January	2009	1/31/2009
+Robbery	115	January	2009	1/31/2009
+Assault	137	January	2009	1/31/2009
+Burglary	306	January	2009	1/31/2009
+Larceny	575	January	2009	1/31/2009
+Motor Vehicle Theft	133	January	2009	1/31/2009
+Homicide	3	February	2009	2/28/2009
+Rape	7	February	2009	2/28/2009
+Robbery	96	February	2009	2/28/2009
+Assault	112	February	2009	2/28/2009
+Burglary	229	February	2009	2/28/2009
+Larceny	539	February	2009	2/28/2009
+Motor Vehicle Theft	103	February	2009	2/28/2009
+Homicide	3	March	2009	3/31/2009
+Rape	10	March	2009	3/31/2009
+Robbery	106	March	2009	3/31/2009
+Assault	152	March	2009	3/31/2009
+Burglary	247	March	2009	3/31/2009
+Larceny	654	March	2009	3/31/2009
+Motor Vehicle Theft	150	March	2009	3/31/2009
+Homicide	5	April	2009	4/30/2009
+Rape	12	April	2009	4/30/2009
+Robbery	145	April	2009	4/30/2009
+Assault	172	April	2009	4/30/2009
+Burglary	322	April	2009	4/30/2009
+Larceny	712	April	2009	4/30/2009
+Motor Vehicle Theft	130	April	2009	4/30/2009
+Homicide	4	May	2009	5/31/2009
+Rape	25	May	2009	5/31/2009
+Robbery	137	May	2009	5/31/2009
+Assault	209	May	2009	5/31/2009
+Burglary	376	May	2009	5/31/2009
+Larceny	815	May	2009	5/31/2009
+Motor Vehicle Theft	131	May	2009	5/31/2009
+Homicide	4	June	2009	6/30/2009
+Rape	9	June	2009	6/30/2009
+Robbery	128	June	2009	6/30/2009
+Assault	191	June	2009	6/30/2009
+Burglary	356	June	2009	6/30/2009
+Larceny	771	June	2009	6/30/2009
+Motor Vehicle Theft	124	June	2009	6/30/2009
+Homicide	8	July	2009	7/31/2009
+Rape	13	July	2009	7/31/2009
+Robbery	133	July	2009	7/31/2009
+Assault	211	July	2009	7/31/2009
+Burglary	339	July	2009	7/31/2009
+Larceny	834	July	2009	7/31/2009
+Motor Vehicle Theft	143	July	2009	7/31/2009
+Homicide	11	August	2009	8/31/2009
+Rape	16	August	2009	8/31/2009
+Robbery	154	August	2009	8/31/2009
+Assault	197	August	2009	8/31/2009
+Burglary	355	August	2009	8/31/2009
+Larceny	950	August	2009	8/31/2009
+Motor Vehicle Theft	151	August	2009	8/31/2009
+Homicide	2	September	2009	9/30/2009
+Rape	8	September	2009	9/30/2009
+Robbery	144	September	2009	9/30/2009
+Assault	178	September	2009	9/30/2009
+Burglary	380	September	2009	9/30/2009
+Larceny	851	September	2009	9/30/2009
+Motor Vehicle Theft	140	September	2009	9/30/2009
+Homicide	6	October	2009	10/31/2009
+Rape	13	October	2009	10/31/2009
+Robbery	148	October	2009	10/31/2009
+Assault	151	October	2009	10/31/2009
+Burglary	376	October	2009	10/31/2009
+Larceny	832	October	2009	10/31/2009
+Motor Vehicle Theft	135	October	2009	10/31/2009
+Homicide	6	November	2009	11/30/2009
+Rape	8	November	2009	11/30/2009
+Robbery	178	November	2009	11/30/2009
+Assault	154	November	2009	11/30/2009
+Burglary	368	November	2009	11/30/2009
+Larceny	816	November	2009	11/30/2009
+Motor Vehicle Theft	119	November	2009	11/30/2009
+Homicide	4	December	2009	12/31/2009
+Rape	9	December	2009	12/31/2009
+Robbery	154	December	2009	12/31/2009
+Assault	140	December	2009	12/31/2009
+Burglary	316	December	2009	12/31/2009
+Larceny	629	December	2009	12/31/2009
+Motor Vehicle Theft	134	December	2009	12/31/2009
+Homicide	5	January	2010	1/31/2010
+Rape	14	January	2010	1/31/2010
+Robbery	136	January	2010	1/31/2010
+Assault	129	January	2010	1/31/2010
+Burglary	307	January	2010	1/31/2010
+Larceny	619	January	2010	1/31/2010
+Motor Vehicle Theft	124	January	2010	1/31/2010
+Homicide	3	February	2010	2/28/2010
+Rape	5	February	2010	2/28/2010
+Robbery	86	February	2010	2/28/2010
+Assault	102	February	2010	2/28/2010
+Burglary	242	February	2010	2/28/2010
+Larceny	511	February	2010	2/28/2010
+Motor Vehicle Theft	110	February	2010	2/28/2010
+Homicide	0	March	2010	3/31/2010
+Rape	14	March	2010	3/31/2010
+Robbery	91	March	2010	3/31/2010
+Assault	165	March	2010	3/31/2010
+Burglary	260	March	2010	3/31/2010
+Larceny	676	March	2010	3/31/2010
+Motor Vehicle Theft	129	March	2010	3/31/2010
+Homicide	8	April	2010	4/30/2010
+Rape	7	April	2010	4/30/2010
+Robbery	139	April	2010	4/30/2010
+Assault	157	April	2010	4/30/2010
+Burglary	309	April	2010	4/30/2010
+Larceny	721	April	2010	4/30/2010
+Motor Vehicle Theft	106	April	2010	4/30/2010
+Homicide	4	May	2010	5/31/2010
+Rape	18	May	2010	5/31/2010
+Robbery	123	May	2010	5/31/2010
+Assault	191	May	2010	5/31/2010
+Burglary	382	May	2010	5/31/2010
+Larceny	784	May	2010	5/31/2010
+Motor Vehicle Theft	95	May	2010	5/31/2010
+Homicide	6	June	2010	6/30/2010
+Rape	14	June	2010	6/30/2010
+Robbery	125	June	2010	6/30/2010
+Assault	184	June	2010	6/30/2010
+Burglary	370	June	2010	6/30/2010
+Larceny	1000	June	2010	6/30/2010
+Motor Vehicle Theft	130	June	2010	6/30/2010
+Homicide	5	July	2010	7/31/2010
+Rape	20	July	2010	7/31/2010
+Robbery	131	July	2010	7/31/2010
+Assault	215	July	2010	7/31/2010
+Burglary	422	July	2010	7/31/2010
+Larceny	954	July	2010	7/31/2010
+Motor Vehicle Theft	126	July	2010	7/31/2010
+Homicide	10	August	2010	8/31/2010
+Rape	20	August	2010	8/31/2010
+Robbery	119	August	2010	8/31/2010
+Assault	175	August	2010	8/31/2010
+Burglary	511	August	2010	8/31/2010
+Larceny	888	August	2010	8/31/2010
+Motor Vehicle Theft	129	August	2010	8/31/2010
+Homicide	5	September	2010	9/30/2010
+Rape	16	September	2010	9/30/2010
+Robbery	130	September	2010	9/30/2010
+Assault	132	September	2010	9/30/2010
+Burglary	491	September	2010	9/30/2010
+Larceny	785	September	2010	9/30/2010
+Motor Vehicle Theft	136	September	2010	9/30/2010
+Homicide	4	October	2010	10/31/2010
+Rape	15	October	2010	10/31/2010
+Robbery	152	October	2010	10/31/2010
+Assault	159	October	2010	10/31/2010
+Burglary	369	October	2010	10/31/2010
+Larceny	807	October	2010	10/31/2010
+Motor Vehicle Theft	134	October	2010	10/31/2010
+Homicide	4	November	2010	11/30/2010
+Rape	7	November	2010	11/30/2010
+Robbery	131	November	2010	11/30/2010
+Assault	127	November	2010	11/30/2010
+Burglary	348	November	2010	11/30/2010
+Larceny	684	November	2010	11/30/2010
+Motor Vehicle Theft	113	November	2010	11/30/2010
+Homicide	1	December	2010	12/31/2010
+Rape	6	December	2010	12/31/2010
+Robbery	112	December	2010	12/31/2010
+Assault	110	December	2010	12/31/2010
+Burglary	287	December	2010	12/31/2010
+Larceny	632	December	2010	12/31/2010
+Motor Vehicle Theft	117	December	2010	12/31/2010
+Homicide	4	January	2011	1/31/2011
+Rape	8	January	2011	1/31/2011
+Robbery	108	January	2011	1/31/2011
+Assault	124	January	2011	1/31/2011
+Burglary	313	January	2011	1/31/2011
+Larceny	578	January	2011	1/31/2011
+Motor Vehicle Theft	100	January	2011	1/31/2011
+Homicide	1	February	2011	2/28/2011
+Rape	8	February	2011	2/28/2011
+Robbery	74	February	2011	2/28/2011
+Assault	77	February	2011	2/28/2011
+Burglary	171	February	2011	2/28/2011
+Larceny	468	February	2011	2/28/2011
+Motor Vehicle Theft	90	February	2011	2/28/2011
+Homicide	4	March	2011	3/31/2011
+Rape	8	March	2011	3/31/2011
+Robbery	96	March	2011	3/31/2011
+Assault	104	March	2011	3/31/2011
+Burglary	296	March	2011	3/31/2011
+Larceny	589	March	2011	3/31/2011
+Motor Vehicle Theft	89	March	2011	3/31/2011
+Homicide	3	April	2011	4/30/2011
+Rape	15	April	2011	4/30/2011
+Robbery	127	April	2011	4/30/2011
+Assault	138	April	2011	4/30/2011
+Burglary	298	April	2011	4/30/2011
+Larceny	743	April	2011	4/30/2011
+Motor Vehicle Theft	98	April	2011	4/30/2011
+Homicide	5	May	2011	5/31/2011
+Rape	12	May	2011	5/31/2011
+Robbery	111	May	2011	5/31/2011
+Assault	150	May	2011	5/31/2011
+Burglary	381	May	2011	5/31/2011
+Larceny	767	May	2011	5/31/2011
+Motor Vehicle Theft	92	May	2011	5/31/2011
+Homicide	3	June	2011	6/30/2011
+Rape	11	June	2011	6/30/2011
+Robbery	106	June	2011	6/30/2011
+Assault	177	June	2011	6/30/2011
+Burglary	367	June	2011	6/30/2011
+Larceny	777	June	2011	6/30/2011
+Motor Vehicle Theft	99	June	2011	6/30/2011
+Homicide	6	July	2011	7/31/2011
+Rape	11	July	2011	7/31/2011
+Robbery	139	July	2011	7/31/2011
+Assault	177	July	2011	7/31/2011
+Burglary	473	July	2011	7/31/2011
+Larceny	851	July	2011	7/31/2011
+Motor Vehicle Theft	105	July	2011	7/31/2011
+Homicide	3	August	2011	8/31/2011
+Rape	11	August	2011	8/31/2011
+Robbery	146	August	2011	8/31/2011
+Assault	129	August	2011	8/31/2011
+Burglary	533	August	2011	8/31/2011
+Larceny	883	August	2011	8/31/2011
+Motor Vehicle Theft	116	August	2011	8/31/2011
+Homicide	1	September	2011	9/30/2011
+Rape	4	September	2011	9/30/2011
+Robbery	158	September	2011	9/30/2011
+Assault	145	September	2011	9/30/2011
+Burglary	472	September	2011	9/30/2011
+Larceny	823	September	2011	9/30/2011
+Motor Vehicle Theft	114	September	2011	9/30/2011
+Homicide	1	October	2011	10/31/2011
+Rape	10	October	2011	10/31/2011
+Robbery	122	October	2011	10/31/2011
+Assault	120	October	2011	10/31/2011
+Burglary	438	October	2011	10/31/2011
+Larceny	804	October	2011	10/31/2011
+Motor Vehicle Theft	81	October	2011	10/31/2011
+Homicide	2	November	2011	11/30/2011
+Rape	15	November	2011	11/30/2011
+Robbery	139	November	2011	11/30/2011
+Assault	127	November	2011	11/30/2011
+Burglary	427	November	2011	11/30/2011
+Larceny	796	November	2011	11/30/2011
+Motor Vehicle Theft	103	November	2011	11/30/2011
+Homicide	3	December	2011	12/31/2011
+Rape	5	December	2011	12/31/2011
+Robbery	145	December	2011	12/31/2011
+Assault	128	December	2011	12/31/2011
+Burglary	346	December	2011	12/31/2011
+Larceny	753	December	2011	12/31/2011
+Motor Vehicle Theft	82	December	2011	12/31/2011
+Homicide	2	January	2012	1/31/2012
+Rape	10	January	2012	1/31/2012
+Robbery	123	January	2012	1/31/2012
+Assault	138	January	2012	1/31/2012
+Burglary	333	January	2012	1/31/2012
+Larceny	699	January	2012	1/31/2012
+Motor Vehicle Theft	94	January	2012	1/31/2012
+Homicide	3	February	2012	2/28/2012
+Rape	11	February	2012	2/28/2012
+Robbery	74	February	2012	2/28/2012
+Assault	107	February	2012	2/28/2012
+Burglary	239	February	2012	2/28/2012
+Larceny	557	February	2012	2/28/2012
+Motor Vehicle Theft	71	February	2012	2/28/2012
+Homicide	1	March	2012	3/31/2012
+Rape	13	March	2012	3/31/2012
+Robbery	117	March	2012	3/31/2012
+Assault	149	March	2012	3/31/2012
+Burglary	266	March	2012	3/31/2012
+Larceny	667	March	2012	3/31/2012
+Motor Vehicle Theft	89	March	2012	3/31/2012
+Homicide	1	April	2012	4/30/2012
+Rape	17	April	2012	4/30/2012
+Robbery	126	April	2012	4/30/2012
+Assault	119	April	2012	4/30/2012
+Burglary	308	April	2012	4/30/2012
+Larceny	751	April	2012	4/30/2012
+Motor Vehicle Theft	85	April	2012	4/30/2012
+Homicide	8	May	2012	5/31/2012
+Rape	12	May	2012	5/31/2012
+Robbery	126	May	2012	5/31/2012
+Assault	170	May	2012	5/31/2012
+Burglary	317	May	2012	5/31/2012
+Larceny	758	May	2012	5/31/2012
+Motor Vehicle Theft	110	May	2012	5/31/2012
+Homicide	5	June	2012	6/30/2012
+Rape	16	June	2012	6/30/2012
+Robbery	99	June	2012	6/30/2012
+Assault	150	June	2012	6/30/2012
+Burglary	317	June	2012	6/30/2012
+Larceny	644	June	2012	6/30/2012
+Motor Vehicle Theft	89	June	2012	6/30/2012
+Homicide	6	July	2012	7/31/2012
+Rape	11	July	2012	7/31/2012
+Robbery	83	July	2012	7/31/2012
+Assault	178	July	2012	7/31/2012
+Burglary	396	July	2012	7/31/2012
+Larceny	822	July	2012	7/31/2012
+Motor Vehicle Theft	118	July	2012	7/31/2012
+Homicide	5	August	2012	8/31/2012
+Rape	15	August	2012	8/31/2012
+Robbery	160	August	2012	8/31/2012
+Assault	205	August	2012	8/31/2012
+Burglary	404	August	2012	8/31/2012
+Larceny	824	August	2012	8/31/2012
+Motor Vehicle Theft	111	August	2012	8/31/2012
+Homicide	4	September	2012	9/30/2012
+Rape	10	September	2012	9/30/2012
+Robbery	132	September	2012	9/30/2012
+Assault	159	September	2012	9/30/2012
+Burglary	399	September	2012	9/30/2012
+Larceny	728	September	2012	9/30/2012
+Motor Vehicle Theft	84	September	2012	9/30/2012
+Homicide	7	October	2012	10/31/2012
+Rape	17	October	2012	10/31/2012
+Robbery	111	October	2012	10/31/2012
+Assault	146	October	2012	10/31/2012
+Burglary	386	October	2012	10/31/2012
+Larceny	726	October	2012	10/31/2012
+Motor Vehicle Theft	113	October	2012	10/31/2012
+Homicide	4	November	2012	11/30/2012
+Rape	10	November	2012	11/30/2012
+Robbery	115	November	2012	11/30/2012
+Assault	127	November	2012	11/30/2012
+Burglary	317	November	2012	11/30/2012
+Larceny	657	November	2012	11/30/2012
+Motor Vehicle Theft	94	November	2012	11/30/2012
+Homicide	4	December	2012	12/31/2012
+Rape	6	December	2012	12/31/2012
+Robbery	134	December	2012	12/31/2012
+Assault	104	December	2012	12/31/2012
+Burglary	306	December	2012	12/31/2012
+Larceny	662	December	2012	12/31/2012
+Motor Vehicle Theft	87	December	2012	12/31/2012
+Homicide	1	January	2013	1/31/2013
+Rape	7	January	2013	1/31/2013
+Robbery	100	January	2013	1/31/2013
+Assault	124	January	2013	1/31/2013
+Burglary	251	January	2013	1/31/2013
+Larceny	634	January	2013	1/31/2013
+Motor Vehicle Theft	103	January	2013	1/31/2013
+Homicide	2	February	2013	2/28/2013
+Rape	7	February	2013	2/28/2013
+Robbery	79	February	2013	2/28/2013
+Assault	96	February	2013	2/28/2013
+Burglary	208	February	2013	2/28/2013
+Larceny	493	February	2013	2/28/2013
+Motor Vehicle Theft	52	February	2013	2/28/2013
+Homicide	4	March	2013	3/31/2013
+Rape	11	March	2013	3/31/2013
+Robbery	99	March	2013	3/31/2013
+Assault	128	March	2013	3/31/2013
+Burglary	275	March	2013	3/31/2013
+Larceny	649	March	2013	3/31/2013
+Motor Vehicle Theft	69	March	2013	3/31/2013
+Homicide	4	April	2013	4/30/2013
+Rape	14	April	2013	4/30/2013
+Robbery	117	April	2013	4/30/2013
+Assault	142	April	2013	4/30/2013
+Burglary	278	April	2013	4/30/2013
+Larceny	614	April	2013	4/30/2013
+Motor Vehicle Theft	73	April	2013	4/30/2013
+Homicide	4	May	2013	5/31/2013
+Rape	19	May	2013	5/31/2013
+Robbery	89	May	2013	5/31/2013
+Assault	173	May	2013	5/31/2013
+Burglary	277	May	2013	5/31/2013
+Larceny	722	May	2013	5/31/2013
+Motor Vehicle Theft	79	May	2013	5/31/2013
+Homicide	3	June	2013	6/30/2013
+Rape	14	June	2013	6/30/2013
+Robbery	126	June	2013	6/30/2013
+Assault	172	June	2013	6/30/2013
+Burglary	336	June	2013	6/30/2013
+Larceny	690	June	2013	6/30/2013
+Motor Vehicle Theft	96	June	2013	6/30/2013
+Homicide	5	July	2013	7/31/2013
+Rape	14	July	2013	7/31/2013
+Robbery	118	July	2013	7/31/2013
+Assault	179	July	2013	7/31/2013
+Burglary	336	July	2013	7/31/2013
+Larceny	842	July	2013	7/31/2013
+Motor Vehicle Theft	108	July	2013	7/31/2013
+Homicide	5	August	2013	8/31/2013
+Rape	16	August	2013	8/31/2013
+Robbery	140	August	2013	8/31/2013
+Assault	186	August	2013	8/31/2013
+Burglary	302	August	2013	8/31/2013
+Larceny	780	August	2013	8/31/2013
+Motor Vehicle Theft	88	August	2013	8/31/2013
+Homicide	4	September	2013	9/30/2013
+Rape	16	September	2013	9/30/2013
+Robbery	121	September	2013	9/30/2013
+Assault	147	September	2013	9/30/2013
+Burglary	325	September	2013	9/30/2013
+Larceny	776	September	2013	9/30/2013
+Motor Vehicle Theft	75	September	2013	9/30/2013
+Homicide	4	October	2013	10/31/2013
+Rape	8	October	2013	10/31/2013
+Robbery	132	October	2013	10/31/2013
+Assault	122	October	2013	10/31/2013
+Burglary	340	October	2013	10/31/2013
+Larceny	705	October	2013	10/31/2013
+Motor Vehicle Theft	70	October	2013	10/31/2013
+Homicide	4	November	2013	11/30/2013
+Rape	13	November	2013	11/30/2013
+Robbery	95	November	2013	11/30/2013
+Assault	113	November	2013	11/30/2013
+Burglary	257	November	2013	11/30/2013
+Larceny	595	November	2013	11/30/2013
+Motor Vehicle Theft	83	November	2013	11/30/2013
+Homicide	7	December	2013	12/31/2013
+Rape	13	December	2013	12/31/2013
+Robbery	113	December	2013	12/31/2013
+Assault	109	December	2013	12/31/2013
+Burglary	282	December	2013	12/31/2013
+Larceny	607	December	2013	12/31/2013
+Motor Vehicle Theft	86	December	2013	12/31/2013
+Homicide	3	January	2014	1/31/2014
+Rape	9	January	2014	1/31/2014
+Robbery	105	January	2014	1/31/2014
+Assault	99	January	2014	1/31/2014
+Burglary	221	January	2014	1/31/2014
+Larceny	646	January	2014	1/31/2014
+Motor Vehicle Theft	95	January	2014	1/31/2014
+Homicide	3	February	2014	2/28/2014
+Rape	6	February	2014	2/28/2014
+Robbery	61	February	2014	2/28/2014
+Assault	106	February	2014	2/28/2014
+Burglary	166	February	2014	2/28/2014
+Larceny	526	February	2014	2/28/2014
+Motor Vehicle Theft	78	February	2014	2/28/2014
+Homicide	3	March	2014	3/31/2014
+Rape	14	March	2014	3/31/2014
+Robbery	65	March	2014	3/31/2014
+Assault	105	March	2014	3/31/2014
+Burglary	210	March	2014	3/31/2014
+Larceny	568	March	2014	3/31/2014
+Motor Vehicle Theft	69	March	2014	3/31/2014
+Homicide	1	April	2014	4/30/2014
+Rape	15	April	2014	4/30/2014
+Robbery	119	April	2014	4/30/2014
+Assault	135	April	2014	4/30/2014
+Burglary	232	April	2014	4/30/2014
+Larceny	656	April	2014	4/30/2014
+Motor Vehicle Theft	93	April	2014	4/30/2014
+Homicide	6	May	2014	5/31/2014
+Rape	13	May	2014	5/31/2014
+Robbery	130	May	2014	5/31/2014
+Assault	172	May	2014	5/31/2014
+Burglary	303	May	2014	5/31/2014
+Larceny	793	May	2014	5/31/2014
+Motor Vehicle Theft	92	May	2014	5/31/2014
+Homicide	5	June	2014	6/30/2014
+Rape	18	June	2014	6/30/2014
+Robbery	127	June	2014	6/30/2014
+Assault	158	June	2014	6/30/2014
+Burglary	307	June	2014	6/30/2014
+Larceny	765	June	2014	6/30/2014
+Motor Vehicle Theft	81	June	2014	6/30/2014
+Homicide	7	July	2014	7/31/2014
+Rape	19	July	2014	7/31/2014
+Robbery	133	July	2014	7/31/2014
+Assault	180	July	2014	7/31/2014
+Burglary	268	July	2014	7/31/2014
+Larceny	766	July	2014	7/31/2014
+Motor Vehicle Theft	62	July	2014	7/31/2014
+Homicide	6	August	2014	8/31/2014
+Rape	18	August	2014	8/31/2014
+Robbery	127	August	2014	8/31/2014
+Assault	152	August	2014	8/31/2014
+Burglary	289	August	2014	8/31/2014
+Larceny	913	August	2014	8/31/2014
+Motor Vehicle Theft	75	August	2014	8/31/2014
+Homicide	4	September	2014	9/30/2014
+Rape	15	September	2014	9/30/2014
+Robbery	93	September	2014	9/30/2014
+Assault	132	September	2014	9/30/2014
+Burglary	286	September	2014	9/30/2014
+Larceny	778	September	2014	9/30/2014
+Motor Vehicle Theft	91	September	2014	9/30/2014
+Homicide	8	October	2014	10/31/2014
+Rape	15	October	2014	10/31/2014
+Robbery	116	October	2014	10/31/2014
+Assault	119	October	2014	10/31/2014
+Burglary	290	October	2014	10/31/2014
+Larceny	735	October	2014	10/31/2014
+Motor Vehicle Theft	85	October	2014	10/31/2014
+Homicide	4	November	2014	11/30/2014
+Rape	13	November	2014	11/30/2014
+Robbery	97	November	2014	11/30/2014
+Assault	120	November	2014	11/30/2014
+Burglary	251	November	2014	11/30/2014
+Larceny	555	November	2014	11/30/2014
+Motor Vehicle Theft	65	November	2014	11/30/2014
+Homicide	12	December	2014	12/31/2014
+Rape	10	December	2014	12/31/2014
+Robbery	104	December	2014	12/31/2014
+Assault	124	December	2014	12/31/2014
+Burglary	300	December	2014	12/31/2014
+Larceny	690	December	2014	12/31/2014
+Motor Vehicle Theft	95	December	2014	12/31/2014
+Homicide	1	January	2015	1/31/2015
+Rape	7	January	2015	1/31/2015
+Robbery	92	January	2015	1/31/2015
+Assault	107	January	2015	1/31/2015
+Burglary	181	January	2015	1/31/2015
+Larceny	606	January	2015	1/31/2015
+Motor Vehicle Theft	97	January	2015	1/31/2015
+Homicide	2	February	2015	2/28/2015
+Rape	4	February	2015	2/28/2015
+Robbery	54	February	2015	2/28/2015
+Assault	76	February	2015	2/28/2015
+Burglary	131	February	2015	2/28/2015
+Larceny	368	February	2015	2/28/2015
+Motor Vehicle Theft	62	February	2015	2/28/2015
+Homicide	2	March	2015	3/31/2015
+Rape	13	March	2015	3/31/2015
+Robbery	76	March	2015	3/31/2015
+Assault	113	March	2015	3/31/2015
+Burglary	142	March	2015	3/31/2015
+Larceny	491	March	2015	3/31/2015
+Motor Vehicle Theft	71	March	2015	3/31/2015
+Homicide	1	April	2015	4/30/2015
+Rape	14	April	2015	4/30/2015
+Robbery	81	April	2015	4/30/2015
+Assault	145	April	2015	4/30/2015
+Burglary	163	April	2015	4/30/2015
+Larceny	577	April	2015	4/30/2015
+Motor Vehicle Theft	79	April	2015	4/30/2015
+Homicide	2	May	2015	5/31/2015
+Rape	27	May	2015	5/31/2015
+Robbery	79	May	2015	5/31/2015
+Assault	134	May	2015	5/31/2015
+Burglary	191	May	2015	5/31/2015
+Larceny	663	May	2015	5/31/2015
+Motor Vehicle Theft	93	May	2015	5/31/2015
+Homicide	4	June	2015	6/30/2015
+Rape	24	June	2015	6/30/2015
+Robbery	76	June	2015	6/30/2015
+Assault	149	June	2015	6/30/2015
+Burglary	231	June	2015	6/30/2015
+Larceny	695	June	2015	6/30/2015
+Motor Vehicle Theft	87	June	2015	6/30/2015
+Homicide	4	July	2015	7/31/2015
+Rape	17	July	2015	7/31/2015
+Robbery	80	July	2015	7/31/2015
+Assault	178	July	2015	7/31/2015
+Burglary	275	July	2015	7/31/2015
+Larceny	840	July	2015	7/31/2015
+Motor Vehicle Theft	102	July	2015	7/31/2015
+Homicide	3	August	2015	8/31/2015
+Rape	16	August	2015	8/31/2015
+Robbery	99	August	2015	8/31/2015
+Assault	169	August	2015	8/31/2015
+Burglary	285	August	2015	8/31/2015
+Larceny	771	August	2015	8/31/2015
+Motor Vehicle Theft	85	August	2015	8/31/2015
+Homicide	12	September	2015	9/30/2015
+Rape	21	September	2015	9/30/2015
+Robbery	89	September	2015	9/30/2015
+Assault	148	September	2015	9/30/2015
+Burglary	289	September	2015	9/30/2015
+Larceny	636	September	2015	9/30/2015
+Motor Vehicle Theft	74	September	2015	9/30/2015
+Homicide	7	October	2015	10/31/2015
+Rape	20	October	2015	10/31/2015
+Robbery	94	October	2015	10/31/2015
+Assault	144	October	2015	10/31/2015
+Burglary	340	October	2015	10/31/2015
+Larceny	654	October	2015	10/31/2015
+Motor Vehicle Theft	92	October	2015	10/31/2015
+Homicide	3	November	2015	11/30/2015
+Rape	15	November	2015	11/30/2015
+Robbery	102	November	2015	11/30/2015
+Assault	127	November	2015	11/30/2015
+Burglary	274	November	2015	11/30/2015
+Larceny	578	November	2015	11/30/2015
+Motor Vehicle Theft	76	November	2015	11/30/2015
+Homicide	2	December	2015	12/31/2015
+Rape	10	December	2015	12/31/2015
+Robbery	111	December	2015	12/31/2015
+Assault	106	December	2015	12/31/2015
+Burglary	278	December	2015	12/31/2015
+Larceny	581	December	2015	12/31/2015
+Motor Vehicle Theft	67	December	2015	12/31/2015
+Homicide	3	January	2016	1/31/2016
+Rape	14	January	2016	1/31/2016
+Robbery	99	January	2016	1/31/2016
+Assault	103	January	2016	1/31/2016
+Burglary	230	January	2016	1/31/2016
+Larceny	524	January	2016	1/31/2016
+Motor Vehicle Theft	73	January	2016	1/31/2016
+Homicide	3	February	2016	2/28/2016
+Rape	21	February	2016	2/28/2016
+Robbery	63	February	2016	2/28/2016
+Assault	113	February	2016	2/28/2016
+Burglary	155	February	2016	2/28/2016
+Larceny	419	February	2016	2/28/2016
+Motor Vehicle Theft	39	February	2016	2/28/2016
+Homicide	3	March	2016	3/31/2016
+Rape	15	March	2016	3/31/2016
+Robbery	79	March	2016	3/31/2016
+Assault	118	March	2016	3/31/2016
+Burglary	182	March	2016	3/31/2016
+Larceny	465	March	2016	3/31/2016
+Motor Vehicle Theft	57	March	2016	3/31/2016
+Homicide	3	April	2016	4/30/2016
+Rape	10	April	2016	4/30/2016
+Robbery	65	April	2016	4/30/2016
+Assault	127	April	2016	4/30/2016
+Burglary	196	April	2016	4/30/2016
+Larceny	518	April	2016	4/30/2016
+Motor Vehicle Theft	65	April	2016	4/30/2016
+Homicide	3	May	2016	5/31/2016
+Rape	17	May	2016	5/31/2016
+Robbery	85	May	2016	5/31/2016
+Assault	151	May	2016	5/31/2016
+Burglary	220	May	2016	5/31/2016
+Larceny	595	May	2016	5/31/2016
+Motor Vehicle Theft	78	May	2016	5/31/2016
+Homicide	4	June	2016	6/30/2016
+Rape	23	June	2016	6/30/2016
+Robbery	80	June	2016	6/30/2016
+Assault	146	June	2016	6/30/2016
+Burglary	203	June	2016	6/30/2016
+Larceny	720	June	2016	6/30/2016
+Motor Vehicle Theft	83	June	2016	6/30/2016
+Homicide	6	July	2016	7/31/2016
+Rape	12	July	2016	7/31/2016
+Robbery	90	July	2016	7/31/2016
+Assault	162	July	2016	7/31/2016
+Burglary	302	July	2016	7/31/2016
+Larceny	730	July	2016	7/31/2016
+Motor Vehicle Theft	87	July	2016	7/31/2016
+Homicide	7	August	2016	8/31/2016
+Rape	9	August	2016	8/31/2016
+Robbery	103	August	2016	8/31/2016
+Assault	159	August	2016	8/31/2016
+Burglary	326	August	2016	8/31/2016
+Larceny	823	August	2016	8/31/2016
+Motor Vehicle Theft	93	August	2016	8/31/2016
+Homicide	7	September	2016	9/30/2016
+Rape	15	September	2016	9/30/2016
+Robbery	95	September	2016	9/30/2016
+Assault	142	September	2016	9/30/2016
+Burglary	216	September	2016	9/30/2016
+Larceny	630	September	2016	9/30/2016
+Motor Vehicle Theft	68	September	2016	9/30/2016
+Homicide	3	October	2016	10/31/2016
+Rape	12	October	2016	10/31/2016
+Robbery	101	October	2016	10/31/2016
+Assault	125	October	2016	10/31/2016
+Burglary	217	October	2016	10/31/2016
+Larceny	622	October	2016	10/31/2016
+Motor Vehicle Theft	58	October	2016	10/31/2016
+Homicide	2	November	2016	11/30/2016
+Rape	13	November	2016	11/30/2016
+Robbery	93	November	2016	11/30/2016
+Assault	144	November	2016	11/30/2016
+Burglary	206	November	2016	11/30/2016
+Larceny	570	November	2016	11/30/2016
+Motor Vehicle Theft	80	November	2016	11/30/2016
+Homicide	0	December	2016	12/31/2016
+Rape	15	December	2016	12/31/2016
+Robbery	107	December	2016	12/31/2016
+Assault	80	December	2016	12/31/2016
+Burglary	175	December	2016	12/31/2016
+Larceny	531	December	2016	12/31/2016
+Motor Vehicle Theft	70	December	2016	12/31/2016
+Homicide	8	January	2017	1/31/2017
+Rape	15	January	2017	1/31/2017
+Robbery	75	January	2017	1/31/2017
+Assault	94	January	2017	1/31/2017
+Burglary	165	January	2017	1/31/2017
+Larceny	496	January	2017	1/31/2017
+Motor Vehicle Theft	63	January	2017	1/31/2017
+Homicide	4	February	2017	2/28/2017
+Rape	13	February	2017	2/28/2017
+Robbery	63	February	2017	2/28/2017
+Assault	101	February	2017	2/28/2017
+Burglary	137	February	2017	2/28/2017
+Larceny	400	February	2017	2/28/2017
+Motor Vehicle Theft	35	February	2017	2/28/2017
+Homicide	4	March	2017	3/31/2017
+Rape	13	March	2017	3/31/2017
+Robbery	55	March	2017	3/31/2017
+Assault	88	March	2017	3/31/2017
+Burglary	156	March	2017	3/31/2017
+Larceny	475	March	2017	3/31/2017
+Motor Vehicle Theft	50	March	2017	3/31/2017
+Homicide	3	April	2017	4/30/2017
+Rape	10	April	2017	4/30/2017
+Robbery	77	April	2017	4/30/2017
+Assault	120	April	2017	4/30/2017
+Burglary	185	April	2017	4/30/2017
+Larceny	508	April	2017	4/30/2017
+Motor Vehicle Theft	67	April	2017	4/30/2017
+Homicide	4	May	2017	5/31/2017
+Rape	11	May	2017	5/31/2017
+Robbery	67	May	2017	5/31/2017
+Assault	135	May	2017	5/31/2017
+Burglary	174	May	2017	5/31/2017
+Larceny	589	May	2017	5/31/2017
+Motor Vehicle Theft	72	May	2017	5/31/2017
+Homicide	2	June	2017	6/30/2017
+Rape	18	June	2017	6/30/2017
+Robbery	77	June	2017	6/30/2017
+Assault	144	June	2017	6/30/2017
+Burglary	175	June	2017	6/30/2017
+Larceny	647	June	2017	6/30/2017
+Motor Vehicle Theft	65	June	2017	6/30/2017
+Homicide	4	July	2017	7/31/2017
+Rape	16	July	2017	7/31/2017
+Robbery	67	July	2017	7/31/2017
+Assault	147	July	2017	7/31/2017
+Burglary	254	July	2017	7/31/2017
+Larceny	599	July	2017	7/31/2017
+Motor Vehicle Theft	85	July	2017	7/31/2017
+Homicide	3	August	2017	8/31/2017
+Rape	12	August	2017	8/31/2017
+Robbery	91	August	2017	8/31/2017
+Assault	173	August	2017	8/31/2017
+Burglary	267	August	2017	8/31/2017
+Larceny	690	August	2017	8/31/2017
+Motor Vehicle Theft	90	August	2017	8/31/2017
+Homicide	1	September	2017	9/30/2017
+Rape	16	September	2017	9/30/2017
+Robbery	76	September	2017	9/30/2017
+Assault	169	September	2017	9/30/2017
+Burglary	209	September	2017	9/30/2017
+Larceny	603	September	2017	9/30/2017
+Motor Vehicle Theft	73	September	2017	9/30/2017
+Homicide	3	October	2017	10/31/2017
+Rape	16	October	2017	10/31/2017
+Robbery	74	October	2017	10/31/2017
+Assault	131	October	2017	10/31/2017
+Burglary	238	October	2017	10/31/2017
+Larceny	680	October	2017	10/31/2017
+Motor Vehicle Theft	86	October	2017	10/31/2017
+Homicide	3	November	2017	11/30/2017
+Rape	11	November	2017	11/30/2017
+Robbery	72	November	2017	11/30/2017
+Assault	120	November	2017	11/30/2017
+Burglary	232	November	2017	11/30/2017
+Larceny	519	November	2017	11/30/2017
+Motor Vehicle Theft	79	November	2017	11/30/2017
+Homicide	3	December	2017	12/31/2017
+Rape	10	December	2017	12/31/2017
+Robbery	67	December	2017	12/31/2017
+Assault	113	December	2017	12/31/2017
+Burglary	176	December	2017	12/31/2017
+Larceny	469	December	2017	12/31/2017
+Motor Vehicle Theft	75	December	2017	12/31/2017
+Homicide	1	January	2018	1/31/2018
+Rape	19	January	2018	1/31/2018
+Robbery	88	January	2018	1/31/2018
+Assault	118	January	2018	1/31/2018
+Burglary	159	January	2018	1/31/2018
+Larceny	417	January	2018	1/31/2018
+Motor Vehicle Theft	76	January	2018	1/31/2018
+Homicide	3	February	2018	2/28/2018
+Rape	11	February	2018	2/28/2018
+Robbery	69	February	2018	2/28/2018
+Assault	81	February	2018	2/28/2018
+Burglary	132	February	2018	2/28/2018
+Larceny	432	February	2018	2/28/2018
+Motor Vehicle Theft	82	February	2018	2/28/2018
+Homicide	3	March	2018	3/31/2018
+Rape	21	March	2018	3/31/2018
+Robbery	68	March	2018	3/31/2018
+Assault	111	March	2018	3/31/2018
+Burglary	152	March	2018	3/31/2018
+Larceny	481	March	2018	3/31/2018
+Motor Vehicle Theft	70	March	2018	3/31/2018
+Homicide	3	April	2018	4/30/2018
+Rape	11	April	2018	4/30/2018
+Robbery	55	April	2018	4/30/2018
+Assault	121	April	2018	4/30/2018
+Burglary	161	April	2018	4/30/2018
+Larceny	474	April	2018	4/30/2018
+Motor Vehicle Theft	66	April	2018	4/30/2018
+Homicide	5	May	2018	5/31/2018
+Rape	16	May	2018	5/31/2018
+Robbery	60	May	2018	5/31/2018
+Assault	150	May	2018	5/31/2018
+Burglary	223	May	2018	5/31/2018
+Larceny	561	May	2018	5/31/2018
+Motor Vehicle Theft	78	May	2018	5/31/2018
+Homicide	9	June	2018	6/30/2018
+Rape	15	June	2018	6/30/2018
+Robbery	76	June	2018	6/30/2018
+Assault	149	June	2018	6/30/2018
+Burglary	228	June	2018	6/30/2018
+Larceny	636	June	2018	6/30/2018
+Motor Vehicle Theft	69	June	2018	6/30/2018
+Homicide	10	July	2018	7/31/2018
+Rape	14	July	2018	7/31/2018
+Robbery	84	July	2018	7/31/2018
+Assault	174	July	2018	7/31/2018
+Burglary	262	July	2018	7/31/2018
+Larceny	712	July	2018	7/31/2018
+Motor Vehicle Theft	81	July	2018	7/31/2018
+Homicide	6	August	2018	8/31/2018
+Rape	12	August	2018	8/31/2018
+Robbery	105	August	2018	8/31/2018
+Assault	141	August	2018	8/31/2018
+Burglary	250	August	2018	8/31/2018
+Larceny	740	August	2018	8/31/2018
+Motor Vehicle Theft	69	August	2018	8/31/2018
+Homicide	4	September	2018	9/30/2018
+Rape	14	September	2018	9/30/2018
+Robbery	93	September	2018	9/30/2018
+Assault	138	September	2018	9/30/2018
+Burglary	228	September	2018	9/30/2018
+Larceny	688	September	2018	9/30/2018
+Motor Vehicle Theft	83	September	2018	9/30/2018
+Homicide	5	October	2018	10/31/2018
+Rape	14	October	2018	10/31/2018
+Robbery	76	October	2018	10/31/2018
+Assault	115	October	2018	10/31/2018
+Burglary	212	October	2018	10/31/2018
+Larceny	606	October	2018	10/31/2018
+Motor Vehicle Theft	72	October	2018	10/31/2018
+Homicide	3	November	2018	11/30/2018
+Rape	12	November	2018	11/30/2018
+Robbery	70	November	2018	11/30/2018
+Assault	106	November	2018	11/30/2018
+Burglary	156	November	2018	11/30/2018
+Larceny	506	November	2018	11/30/2018
+Motor Vehicle Theft	42	November	2018	11/30/2018
+Homicide	6	December	2018	12/31/2018
+Rape	9	December	2018	12/31/2018
+Robbery	67	December	2018	12/31/2018
+Assault	108	December	2018	12/31/2018
+Burglary	116	December	2018	12/31/2018
+Larceny	471	December	2018	12/31/2018
+Motor Vehicle Theft	64	December	2018	12/31/2018
+Homicide	1	January	2019	1/31/2019
+Rape	11	January	2019	1/31/2019
+Robbery	74	January	2019	1/31/2019
+Assault	111	January	2019	1/31/2019
+Burglary	107	January	2019	1/31/2019
+Larceny	405	January	2019	1/31/2019
+Motor Vehicle Theft	61	January	2019	1/31/2019
+Homicide	2	February	2019	2/28/2019
+Rape	9	February	2019	2/28/2019
+Robbery	46	February	2019	2/28/2019
+Assault	88	February	2019	2/28/2019
+Burglary	97	February	2019	2/28/2019
+Larceny	355	February	2019	2/28/2019
+Motor Vehicle Theft	49	February	2019	2/28/2019
+Homicide	3	March	2019	3/31/2019
+Rape	11	March	2019	3/31/2019
+Robbery	33	March	2019	3/31/2019
+Assault	109	March	2019	3/31/2019
+Burglary	76	March	2019	3/31/2019
+Larceny	385	March	2019	3/31/2019
+Motor Vehicle Theft	47	March	2019	3/31/2019
+Homicide	4	April	2019	4/30/2019
+Rape	9	April	2019	4/30/2019
+Robbery	42	April	2019	4/30/2019
+Assault	106	April	2019	4/30/2019
+Burglary	123	April	2019	4/30/2019
+Larceny	452	April	2019	4/30/2019
+Motor Vehicle Theft	47	April	2019	4/30/2019
+Homicide	4	May	2019	5/31/2019
+Rape	13	May	2019	5/31/2019
+Robbery	54	May	2019	5/31/2019
+Assault	128	May	2019	5/31/2019
+Burglary	159	May	2019	5/31/2019
+Larceny	523	May	2019	5/31/2019
+Motor Vehicle Theft	39	May	2019	5/31/2019
+Homicide	3	June	2019	6/30/2019
+Rape	6	June	2019	6/30/2019
+Robbery	75	June	2019	6/30/2019
+Assault	160	June	2019	6/30/2019
+Burglary	149	June	2019	6/30/2019
+Larceny	520	June	2019	6/30/2019
+Motor Vehicle Theft	44	June	2019	6/30/2019
+Homicide	6	July	2019	7/31/2019
+Rape	15	July	2019	7/31/2019
+Robbery	71	July	2019	7/31/2019
+Assault	172	July	2019	7/31/2019
+Burglary	146	July	2019	7/31/2019
+Larceny	674	July	2019	7/31/2019
+Motor Vehicle Theft	44	July	2019	7/31/2019
+Homicide	7	August	2019	8/31/2019
+Rape	10	August	2019	8/31/2019
+Robbery	81	August	2019	8/31/2019
+Assault	149	August	2019	8/31/2019
+Burglary	159	August	2019	8/31/2019
+Larceny	584	August	2019	8/31/2019
+Motor Vehicle Theft	50	August	2019	8/31/2019
+Homicide	8	September	2019	9/30/2019
+Rape	14	September	2019	9/30/2019
+Robbery	83	September	2019	9/30/2019
+Assault	125	September	2019	9/30/2019
+Burglary	168	September	2019	9/30/2019
+Larceny	540	September	2019	9/30/2019
+Motor Vehicle Theft	68	September	2019	9/30/2019
+Homicide	2	October	2019	10/31/2019
+Rape	8	October	2019	10/31/2019
+Robbery	101	October	2019	10/31/2019
+Assault	133	October	2019	10/31/2019
+Burglary	167	October	2019	10/31/2019
+Larceny	589	October	2019	10/31/2019
+Motor Vehicle Theft	78	October	2019	10/31/2019
+Homicide	3	November	2019	11/30/2019
+Rape	15	November	2019	11/30/2019
+Robbery	76	November	2019	11/30/2019
+Assault	100	November	2019	11/30/2019
+Burglary	125	November	2019	11/30/2019
+Larceny	483	November	2019	11/30/2019
+Motor Vehicle Theft	67	November	2019	11/30/2019
+Homicide	4	December	2019	12/31/2019
+Rape	7	December	2019	12/31/2019
+Robbery	77	December	2019	12/31/2019
+Assault	121	December	2019	12/31/2019
+Burglary	140	December	2019	12/31/2019
+Larceny	516	December	2019	12/31/2019
+Motor Vehicle Theft	79	December	2019	12/31/2019
+Homicide	7	January	2020	1/31/2020
+Rape	5	January	2020	1/31/2020
+Robbery	64	January	2020	1/31/2020
+Assault	111	January	2020	1/31/2020
+Burglary	164	January	2020	1/31/2020
+Larceny	537	January	2020	1/31/2020
+Motor Vehicle Theft	101	January	2020	1/31/2020
+Homicide	2	February	2020	2/28/2020
+Rape	2	February	2020	2/28/2020
+Robbery	42	February	2020	2/28/2020
+Assault	99	February	2020	2/28/2020
+Burglary	117	February	2020	2/28/2020
+Larceny	442	February	2020	2/28/2020
+Motor Vehicle Theft	69	February	2020	2/28/2020
+Homicide	7	March	2020	3/31/2020
+Rape	7	March	2020	3/31/2020
+Robbery	50	March	2020	3/31/2020
+Assault	98	March	2020	3/31/2020
+Burglary	89	March	2020	3/31/2020
+Larceny	421	March	2020	3/31/2020
+Motor Vehicle Theft	65	March	2020	3/31/2020
+Homicide	3	April	2020	4/30/2020
+Rape	12	April	2020	4/30/2020
+Robbery	43	April	2020	4/30/2020
+Assault	91	April	2020	4/30/2020
+Burglary	72	April	2020	4/30/2020
+Larceny	371	April	2020	4/30/2020
+Motor Vehicle Theft	61	April	2020	4/30/2020
+Homicide	4	May	2020	5/31/2020
+Rape	6	May	2020	5/31/2020
+Robbery	47	May	2020	5/31/2020
+Assault	142	May	2020	5/31/2020
+Burglary	131	May	2020	5/31/2020
+Larceny	431	May	2020	5/31/2020
+Motor Vehicle Theft	80	May	2020	5/31/2020
+Homicide	8	June	2020	6/30/2020
+Rape	9	June	2020	6/30/2020
+Robbery	50	June	2020	6/30/2020
+Assault	157	June	2020	6/30/2020
+Burglary	128	June	2020	6/30/2020
+Larceny	388	June	2020	6/30/2020
+Motor Vehicle Theft	88	June	2020	6/30/2020
+Homicide	4	July	2020	7/31/2020
+Rape	13	July	2020	7/31/2020
+Robbery	57	July	2020	7/31/2020
+Assault	166	July	2020	7/31/2020
+Burglary	167	July	2020	7/31/2020
+Larceny	486	July	2020	7/31/2020
+Motor Vehicle Theft	135	July	2020	7/31/2020
+Homicide	5	August	2020	8/31/2020
+Rape	7	August	2020	8/31/2020
+Robbery	62	August	2020	8/31/2020
+Assault	184	August	2020	8/31/2020
+Burglary	128	August	2020	8/31/2020
+Larceny	547	August	2020	8/31/2020
+Motor Vehicle Theft	137	August	2020	8/31/2020
+Homicide	10	September	2020	9/30/2020
+Rape	14	September	2020	9/30/2020
+Robbery	62	September	2020	9/30/2020
+Assault	151	September	2020	9/30/2020
+Burglary	151	September	2020	9/30/2020
+Larceny	529	September	2020	9/30/2020
+Motor Vehicle Theft	116	September	2020	9/30/2020
+Homicide	3	October	2020	10/31/2020
+Rape	3	October	2020	10/31/2020
+Robbery	77	October	2020	10/31/2020
+Assault	139	October	2020	10/31/2020
+Burglary	140	October	2020	10/31/2020
+Larceny	530	October	2020	10/31/2020
+Motor Vehicle Theft	175	October	2020	10/31/2020
+Homicide	7	November	2020	11/30/2020
+Rape	10	November	2020	11/30/2020
+Robbery	70	November	2020	11/30/2020
+Assault	131	November	2020	11/30/2020
+Burglary	155	November	2020	11/30/2020
+Larceny	512	November	2020	11/30/2020
+Motor Vehicle Theft	151	November	2020	11/30/2020
+Homicide	5	December	2020	12/31/2020
+Rape	19	December	2020	12/31/2020
+Robbery	81	December	2020	12/31/2020
+Assault	109	December	2020	12/31/2020
+Burglary	133	December	2020	12/31/2020
+Larceny	455	December	2020	12/31/2020
+Motor Vehicle Theft	142	December	2020	12/31/2020
+Homicide	10	January	2021	1/31/2021
+Rape	12	January	2021	1/31/2021
+Robbery	52	January	2021	1/31/2021
+Assault	98	January	2021	1/31/2021
+Burglary	88	January	2021	1/31/2021
+Larceny	394	January	2021	1/31/2021
+Motor Vehicle Theft	200	January	2021	1/31/2021
+Homicide	3	February	2021	2/28/2021
+Rape	11	February	2021	2/28/2021
+Robbery	36	February	2021	2/28/2021
+Assault	109	February	2021	2/28/2021
+Burglary	100	February	2021	2/28/2021
+Larceny	327	February	2021	2/28/2021
+Motor Vehicle Theft	163	February	2021	2/28/2021
+Homicide	4	March	2021	3/31/2021
+Rape	14	March	2021	3/31/2021
+Robbery	30	March	2021	3/31/2021
+Assault	107	March	2021	3/31/2021
+Burglary	94	March	2021	3/31/2021
+Larceny	461	March	2021	3/31/2021
+Motor Vehicle Theft	123	March	2021	3/31/2021
+Homicide	11	April	2021	4/30/2021
+Rape	11	April	2021	4/30/2021
+Robbery	31	April	2021	4/30/2021
+Assault	126	April	2021	4/30/2021
+Burglary	99	April	2021	4/30/2021
+Larceny	401	April	2021	4/30/2021
+Motor Vehicle Theft	124	April	2021	4/30/2021
+Homicide	10	May	2021	5/31/2021
+Rape	9	May	2021	5/31/2021
+Robbery	60	May	2021	5/31/2021
+Assault	155	May	2021	5/31/2021
+Burglary	117	May	2021	5/31/2021
+Larceny	528	May	2021	5/31/2021
+Motor Vehicle Theft	81	May	2021	5/31/2021
+Homicide	8	June	2021	6/30/2021
+Rape	15	June	2021	6/30/2021
+Robbery	52	June	2021	6/30/2021
+Assault	148	June	2021	6/30/2021
+Burglary	103	June	2021	6/30/2021
+Larceny	482	June	2021	6/30/2021
+Motor Vehicle Theft	61	June	2021	6/30/2021
+Homicide	3	July	2021	7/31/2021
+Rape	23	July	2021	7/31/2021
+Robbery	56	July	2021	7/31/2021
+Assault	169	July	2021	7/31/2021
+Burglary	119	July	2021	7/31/2021
+Larceny	542	July	2021	7/31/2021
+Motor Vehicle Theft	93	July	2021	7/31/2021
+Homicide	4	August	2021	8/31/2021
+Rape	8	August	2021	8/31/2021
+Robbery	48	August	2021	8/31/2021
+Assault	165	August	2021	8/31/2021
+Burglary	119	August	2021	8/31/2021
+Larceny	564	August	2021	8/31/2021
+Motor Vehicle Theft	90	August	2021	8/31/2021
+Homicide	2	September	2021	9/30/2021
+Rape	21	September	2021	9/30/2021
+Robbery	73	September	2021	9/30/2021
+Assault	130	September	2021	9/30/2021
+Burglary	120	September	2021	9/30/2021
+Larceny	483	September	2021	9/30/2021
+Motor Vehicle Theft	57	September	2021	9/30/2021
+Homicide	5	October	2021	10/31/2021
+Rape	10	October	2021	10/31/2021
+Robbery	64	October	2021	10/31/2021
+Assault	136	October	2021	10/31/2021
+Burglary	109	October	2021	10/31/2021
+Larceny	522	October	2021	10/31/2021
+Motor Vehicle Theft	89	October	2021	10/31/2021
+Homicide	5	November	2021	11/30/2021
+Rape	14	November	2021	11/30/2021
+Robbery	41	November	2021	11/30/2021
+Assault	130	November	2021	11/30/2021
+Burglary	122	November	2021	11/30/2021
+Larceny	499	November	2021	11/30/2021
+Motor Vehicle Theft	105	November	2021	11/30/2021
+Homicide	2	December	2021	12/31/2021
+Rape	9	December	2021	12/31/2021
+Robbery	64	December	2021	12/31/2021
+Assault	106	December	2021	12/31/2021
+Burglary	119	December	2021	12/31/2021
+Larceny	462	December	2021	12/31/2021
+Motor Vehicle Theft	94	December	2021	12/31/2021
+Homicide	4	January	2022	1/31/2022
+Rape	9	January	2022	1/31/2022
+Robbery	52	January	2022	1/31/2022
+Assault	80	January	2022	1/31/2022
+Burglary	74	January	2022	1/31/2022
+Larceny	434	January	2022	1/31/2022
+Motor Vehicle Theft	112	January	2022	1/31/2022
+Homicide	3	February	2022	2/28/2022
+Rape	12	February	2022	2/28/2022
+Robbery	44	February	2022	2/28/2022
+Assault	85	February	2022	2/28/2022
+Burglary	77	February	2022	2/28/2022
+Larceny	386	February	2022	2/28/2022
+Motor Vehicle Theft	77	February	2022	2/28/2022
+Homicide	4	March	2022	3/31/2022
+Rape	17	March	2022	3/31/2022
+Robbery	57	March	2022	3/31/2022
+Assault	83	March	2022	3/31/2022
+Burglary	106	March	2022	3/31/2022
+Larceny	496	March	2022	3/31/2022
+Motor Vehicle Theft	89	March	2022	3/31/2022
+Homicide	7	April	2022	4/30/2022
+Rape	14	April	2022	4/30/2022
+Robbery	42	April	2022	4/30/2022
+Assault	111	April	2022	4/30/2022
+Burglary	100	April	2022	4/30/2022
+Larceny	515	April	2022	4/30/2022
+Motor Vehicle Theft	74	April	2022	4/30/2022
+Homicide	14	May	2022	5/31/2022
+Rape	14	May	2022	5/31/2022
+Robbery	41	May	2022	5/31/2022
+Assault	136	May	2022	5/31/2022
+Burglary	103	May	2022	5/31/2022
+Larceny	484	May	2022	5/31/2022
+Motor Vehicle Theft	86	May	2022	5/31/2022
+Homicide	10	June	2022	6/30/2022
+Rape	9	June	2022	6/30/2022
+Robbery	37	June	2022	6/30/2022
+Assault	152	June	2022	6/30/2022
+Burglary	125	June	2022	6/30/2022
+Larceny	549	June	2022	6/30/2022
+Motor Vehicle Theft	104	June	2022	6/30/2022
+Homicide	3	July	2022	7/31/2022
+Rape	12	July	2022	7/31/2022
+Robbery	37	July	2022	7/31/2022
+Assault	145	July	2022	7/31/2022
+Burglary	143	July	2022	7/31/2022
+Larceny	694	July	2022	7/31/2022
+Motor Vehicle Theft	113	July	2022	7/31/2022
+Homicide	6	August	2022	8/31/2022
+Rape	12	August	2022	8/31/2022
+Robbery	51	August	2022	8/31/2022
+Assault	128	August	2022	8/31/2022
+Burglary	132	August	2022	8/31/2022
+Larceny	661	August	2022	8/31/2022
+Motor Vehicle Theft	140	August	2022	8/31/2022
+Homicide	8	September	2022	9/30/2022
+Rape	7	September	2022	9/30/2022
+Robbery	53	September	2022	9/30/2022
+Assault	115	September	2022	9/30/2022
+Burglary	126	September	2022	9/30/2022
+Larceny	638	September	2022	9/30/2022
+Motor Vehicle Theft	144	September	2022	9/30/2022
+Homicide	3	October	2022	10/31/2022
+Rape	8	October	2022	10/31/2022
+Robbery	44	October	2022	10/31/2022
+Assault	120	October	2022	10/31/2022
+Burglary	118	October	2022	10/31/2022
+Larceny	623	October	2022	10/31/2022
+Motor Vehicle Theft	140	October	2022	10/31/2022
+Homicide	3	November	2022	11/30/2022
+Rape	1	November	2022	11/30/2022
+Robbery	40	November	2022	11/30/2022
+Assault	89	November	2022	11/30/2022
+Burglary	90	November	2022	11/30/2022
+Larceny	434	November	2022	11/30/2022
+Motor Vehicle Theft	108	November	2022	11/30/2022
+Homicide	5	December	2022	12/31/2022
+Rape	6	December	2022	12/31/2022
+Robbery	32	December	2022	12/31/2022
+Assault	93	December	2022	12/31/2022
+Burglary	181	December	2022	12/31/2022
+Larceny	457	December	2022	12/31/2022
+Motor Vehicle Theft	206	December	2022	12/31/2022
+Homicide	2	January	2023	1/31/2023
+Rape	5	January	2023	1/31/2023
+Robbery	51	January	2023	1/31/2023
+Assault	116	January	2023	1/31/2023
+Burglary	139	January	2023	1/31/2023
+Larceny	587	January	2023	1/31/2023
+Motor Vehicle Theft	332	January	2023	1/31/2023
+Homicide	3	February	2023	2/28/2023
+Rape	3	February	2023	2/28/2023
+Robbery	34	February	2023	2/28/2023
+Assault	94	February	2023	2/28/2023
+Burglary	84	February	2023	2/28/2023
+Larceny	399	February	2023	2/28/2023
+Motor Vehicle Theft	226	February	2023	2/28/2023
+Homicide	1	March	2023	3/31/2023
+Rape	2	March	2023	3/31/2023
+Robbery	25	March	2023	3/31/2023
+Assault	75	March	2023	3/31/2023
+Burglary	101	March	2023	3/31/2023
+Larceny	510	March	2023	3/31/2023
+Motor Vehicle Theft	242	March	2023	3/31/2023
+Homicide	2	April	2023	4/30/2023
+Rape	4	April	2023	4/30/2023
+Robbery	34	April	2023	4/30/2023
+Assault	98	April	2023	4/30/2023
+Burglary	114	April	2023	4/30/2023
+Larceny	519	April	2023	4/30/2023
+Motor Vehicle Theft	208	April	2023	4/30/2023
+Homicide	3	May	2023	5/31/2023
+Rape	5	May	2023	5/31/2023
+Robbery	42	May	2023	5/31/2023
+Assault	125	May	2023	5/31/2023
+Burglary	122	May	2023	5/31/2023
+Larceny	562	May	2023	5/31/2023
+Motor Vehicle Theft	320	May	2023	5/31/2023
+Homicide	5	June	2023	6/30/2023
+Rape	6	June	2023	6/30/2023
+Robbery	57	June	2023	6/30/2023
+Assault	102	June	2023	6/30/2023
+Burglary	144	June	2023	6/30/2023
+Larceny	588	June	2023	6/30/2023
+Motor Vehicle Theft	379	June	2023	6/30/2023
+Homicide	8	July	2023	7/31/2023
+Rape	2	July	2023	7/31/2023
+Robbery	48	July	2023	7/31/2023
+Assault	151	July	2023	7/31/2023
+Burglary	133	July	2023	7/31/2023
+Larceny	624	July	2023	7/31/2023
+Motor Vehicle Theft	240	July	2023	7/31/2023
+Homicide	4	August	2023	8/31/2023
+Rape	5	August	2023	8/31/2023
+Robbery	49	August	2023	8/31/2023
+Assault	135	August	2023	8/31/2023
+Burglary	144	August	2023	8/31/2023
+Larceny	635	August	2023	8/31/2023
+Motor Vehicle Theft	249	August	2023	8/31/2023
+Homicide	6	September	2023	9/30/2023
+Rape	2	September	2023	9/30/2023
+Robbery	41	September	2023	9/30/2023
+Assault	119	September	2023	9/30/2023
+Burglary	132	September	2023	9/30/2023
+Larceny	606	September	2023	9/30/2023
+Motor Vehicle Theft	132	September	2023	9/30/2023
+Homicide	0	October	2023	10/31/2023
+Rape	9	October	2023	10/31/2023
+Robbery	42	October	2023	10/31/2023
+Assault	133	October	2023	10/31/2023
+Burglary	111	October	2023	10/31/2023
+Larceny	566	October	2023	10/31/2023
+Motor Vehicle Theft	157	October	2023	10/31/2023
+Homicide	2	November	2023	11/30/2023
+Rape	4	November	2023	11/30/2023
+Robbery	39	November	2023	11/30/2023
+Assault	93	November	2023	11/30/2023
+Burglary	92	November	2023	11/30/2023
+Larceny	579	November	2023	11/30/2023
+Motor Vehicle Theft	180	November	2023	11/30/2023
+Homicide	2	December	2023	12/31/2023
+Rape	2	December	2023	12/31/2023
+Robbery	39	December	2023	12/31/2023
+Assault	96	December	2023	12/31/2023
+Burglary	100	December	2023	12/31/2023
+Larceny	633	December	2023	12/31/2023
+Motor Vehicle Theft	190	December	2023	12/31/2023
+Homicide	3	January	2024	1/31/2024
+Rape	8	January	2024	1/31/2024
+Robbery	40	January	2024	1/31/2024
+Assault	68	January	2024	1/31/2024
+Burglary	109	January	2024	1/31/2024
+Larceny	528	January	2024	1/31/2024
+Motor Vehicle Theft	167	January	2024	1/31/2024
+Homicide	3	February	2024	2/28/2024
+Rape	5	February	2024	2/28/2024
+Robbery	28	February	2024	2/28/2024
+Assault	107	February	2024	2/28/2024
+Burglary	106	February	2024	2/28/2024
+Larceny	531	February	2024	2/28/2024
+Motor Vehicle Theft	197	February	2024	2/28/2024
+Homicide	2	March	2024	3/31/2024
+Rape	7	March	2024	3/31/2024
+Robbery	31	March	2024	3/31/2024
+Assault	96	March	2024	3/31/2024
+Burglary	98	March	2024	3/31/2024
+Larceny	604	March	2024	3/31/2024
+Motor Vehicle Theft	174	March	2024	3/31/2024
+Homicide	4	April	2024	4/30/2024
+Rape	10	April	2024	4/30/2024
+Robbery	31	April	2024	4/30/2024
+Assault	113	April	2024	4/30/2024
+Burglary	85	April	2024	4/30/2024
+Larceny	587	April	2024	4/30/2024
+Motor Vehicle Theft	155	April	2024	4/30/2024
+Homicide	5	May	2024	5/31/2024
+Rape	8	May	2024	5/31/2024
+Robbery	51	May	2024	5/31/2024
+Assault	135	May	2024	5/31/2024
+Burglary	117	May	2024	5/31/2024
+Larceny	607	May	2024	5/31/2024
+Motor Vehicle Theft	137	May	2024	5/31/2024
+Homicide	3	June	2024	6/30/2024
+Rape	9	June	2024	6/30/2024
+Robbery	40	June	2024	6/30/2024
+Assault	137	June	2024	6/30/2024
+Burglary	112	June	2024	6/30/2024
+Larceny	729	June	2024	6/30/2024
+Motor Vehicle Theft	190	June	2024	6/30/2024
+Homicide	6	July	2024	7/31/2024
+Rape	6	July	2024	7/31/2024
+Robbery	49	July	2024	7/31/2024
+Assault	126	July	2024	7/31/2024
+Burglary	134	July	2024	7/31/2024
+Larceny	733	July	2024	7/31/2024
+Motor Vehicle Theft	168	July	2024	7/31/2024
+Homicide	4	August	2024	8/31/2024
+Rape	8	August	2024	8/31/2024
+Robbery	59	August	2024	8/31/2024
+Assault	106	August	2024	8/31/2024
+Burglary	122	August	2024	8/31/2024
+Larceny	740	August	2024	8/31/2024
+Motor Vehicle Theft	145	August	2024	8/31/2024
+Homicide	3	September	2024	9/30/2024
+Rape	2	September	2024	9/30/2024
+Robbery	10	September	2024	9/30/2024
+Assault	38	September	2024	9/30/2024
+Burglary	44	September	2024	9/30/2024
+Larceny	252	September	2024	9/30/2024
+Motor Vehicle Theft	36	September	2024	9/30/2024
+Homicide	4	October	2024	10/31/2024
+Rape	9	October	2024	10/31/2024
+Robbery	39	October	2024	10/31/2024
+Assault	133	October	2024	10/31/2024
+Burglary	123	October	2024	10/31/2024
+Larceny	701	October	2024	10/31/2024
+Motor Vehicle Theft	120	October	2024	10/31/2024
+Homicide	0	November	2024	11/30/2024
+Rape	6	November	2024	11/30/2024
+Robbery	28	November	2024	11/30/2024
+Assault	109	November	2024	11/30/2024
+Burglary	117	November	2024	11/30/2024
+Larceny	572	November	2024	11/30/2024
+Motor Vehicle Theft	101	November	2024	11/30/2024
+Homicide	0	December	2024	12/31/2024
+Rape	12	December	2024	12/31/2024
+Robbery	31	December	2024	12/31/2024
+Assault	97	December	2024	12/31/2024
+Burglary	93	December	2024	12/31/2024
+Larceny	521	December	2024	12/31/2024
+Motor Vehicle Theft	102	December	2024	12/31/2024

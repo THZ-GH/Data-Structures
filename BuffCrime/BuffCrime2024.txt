@@ -1,0 +1,84 @@
+Homicide	3	January	2024	1/31/2024
+Rape	8	January	2024	1/31/2024
+Robbery	40	January	2024	1/31/2024
+Assault	68	January	2024	1/31/2024
+Burglary	109	January	2024	1/31/2024
+Larceny	528	January	2024	1/31/2024
+Motor Vehicle Theft	167	January	2024	1/31/2024
+Homicide	3	February	2024	2/28/2024
+Rape	5	February	2024	2/28/2024
+Robbery	28	February	2024	2/28/2024
+Assault	107	February	2024	2/28/2024
+Burglary	106	February	2024	2/28/2024
+Larceny	531	February	2024	2/28/2024
+Motor Vehicle Theft	197	February	2024	2/28/2024
+Homicide	2	March	2024	3/31/2024
+Rape	7	March	2024	3/31/2024
+Robbery	31	March	2024	3/31/2024
+Assault	96	March	2024	3/31/2024
+Burglary	98	March	2024	3/31/2024
+Larceny	604	March	2024	3/31/2024
+Motor Vehicle Theft	174	March	2024	3/31/2024
+Homicide	4	April	2024	4/30/2024
+Rape	10	April	2024	4/30/2024
+Robbery	31	April	2024	4/30/2024
+Assault	113	April	2024	4/30/2024
+Burglary	85	April	2024	4/30/2024
+Larceny	587	April	2024	4/30/2024
+Motor Vehicle Theft	155	April	2024	4/30/2024
+Homicide	5	May	2024	5/31/2024
+Rape	8	May	2024	5/31/2024
+Robbery	51	May	2024	5/31/2024
+Assault	135	May	2024	5/31/2024
+Burglary	117	May	2024	5/31/2024
+Larceny	607	May	2024	5/31/2024
+Motor Vehicle Theft	137	May	2024	5/31/2024
+Homicide	3	June	2024	6/30/2024
+Rape	9	June	2024	6/30/2024
+Robbery	40	June	2024	6/30/2024
+Assault	137	June	2024	6/30/2024
+Burglary	112	June	2024	6/30/2024
+Larceny	729	June	2024	6/30/2024
+Motor Vehicle Theft	190	June	2024	6/30/2024
+Homicide	6	July	2024	7/31/2024
+Rape	6	July	2024	7/31/2024
+Robbery	49	July	2024	7/31/2024
+Assault	126	July	2024	7/31/2024
+Burglary	134	July	2024	7/31/2024
+Larceny	733	July	2024	7/31/2024
+Motor Vehicle Theft	168	July	2024	7/31/2024
+Homicide	4	August	2024	8/31/2024
+Rape	8	August	2024	8/31/2024
+Robbery	59	August	2024	8/31/2024
+Assault	106	August	2024	8/31/2024
+Burglary	122	August	2024	8/31/2024
+Larceny	740	August	2024	8/31/2024
+Motor Vehicle Theft	145	August	2024	8/31/2024
+Homicide	3	September	2024	9/30/2024
+Rape	2	September	2024	9/30/2024
+Robbery	10	September	2024	9/30/2024
+Assault	38	September	2024	9/30/2024
+Burglary	44	September	2024	9/30/2024
+Larceny	252	September	2024	9/30/2024
+Motor Vehicle Theft	36	September	2024	9/30/2024
+Homicide	4	October	2024	10/31/2024
+Rape	9	October	2024	10/31/2024
+Robbery	39	October	2024	10/31/2024
+Assault	133	October	2024	10/31/2024
+Burglary	123	October	2024	10/31/2024
+Larceny	701	October	2024	10/31/2024
+Motor Vehicle Theft	120	October	2024	10/31/2024
+Homicide	0	November	2024	11/30/2024
+Rape	6	November	2024	11/30/2024
+Robbery	28	November	2024	11/30/2024
+Assault	109	November	2024	11/30/2024
+Burglary	117	November	2024	11/30/2024
+Larceny	572	November	2024	11/30/2024
+Motor Vehicle Theft	101	November	2024	11/30/2024
+Homicide	0	December	2024	12/31/2024
+Rape	12	December	2024	12/31/2024
+Robbery	31	December	2024	12/31/2024
+Assault	97	December	2024	12/31/2024
+Burglary	93	December	2024	12/31/2024
+Larceny	521	December	2024	12/31/2024
+Motor Vehicle Theft	102	December	2024	12/31/2024
